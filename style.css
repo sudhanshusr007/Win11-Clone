@@ -71,6 +71,17 @@ body{
 
 
 img:hover{
-    background-color: #3333332f;
-    cursor: pointer;
+    background-color: #b7b7b72f;
+    cursor:default;
+    border-radius: 10px;
 }
+
+#start:hover::after{
+    content: "Start";
+}
+
+
+
+
+
+
