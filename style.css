@@ -73,12 +73,14 @@ body{
 img:hover{
     background-color: #b7b7b72f;
     cursor:default;
-    border-radius: 10px;
+    border-radius: 5px;
+    size: inherit;
 }
 
 #start:hover::after{
     content: "Start";
 }
+
 
 
 
