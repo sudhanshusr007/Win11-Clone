@@ -4,7 +4,7 @@
     width: 100%;
     box-sizing: border-box;
     height: 50px;
-    box-shadow: 2px 2px 12px #333;
+    box-shadow: 2px 2px 10px #333;
     display: flex;
     overflow: hidden;
     -webkit-backdrop-filter: blur(10px);
