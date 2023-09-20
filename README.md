@@ -33,8 +33,8 @@ The project is built using the following technologies:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/win11-desktop-clone.git
-   cd win11-desktop-clone
+   git clone https://github.com/sudhanshusr007/Win11-Clone.git
+   cd Win11-Clone
    ```
 
 2. Open `index.html` in your web browser to launch the Win11 Desktop Clone.
@@ -43,10 +43,6 @@ The project is built using the following technologies:
 
 - Interact with the icons, taskbar, and Start menu to explore the simulated Windows 11 desktop.
 - Click on icons to see interactive pop-ups or launch applications.
-
-## Screenshots
-
-![Win11 Desktop Clone](screenshots/desktop_clone_screenshot.png)
 
 ## Contributing
 
