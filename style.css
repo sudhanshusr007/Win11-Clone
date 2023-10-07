@@ -9,6 +9,8 @@
     overflow: hidden;
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
+    justify-content: flex-end;
+    color: rgb(219, 219, 219);
 }
 
 /* 
@@ -83,7 +85,15 @@ img:hover{
 
 
 
+.tim{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 14px 0;
+}
 
-
+.tim:hover{
+    background-color: aliceblue;
+}
 
 
